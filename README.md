@@ -6,3 +6,5 @@ through the online lessons in the [introduction to earth data science textbook o
 Here is some more text.
 
 I'm making a little change with the intention of checking how git works. 
+
+I made another change
